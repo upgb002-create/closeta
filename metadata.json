@@ -1,0 +1,6 @@
+{
+  "name": "SYNK",
+  "description": "시각장애인을 위한 패션·뷰티 보조 웹앱 프로토타입. 옷의 소재 정보를 진동 패턴으로 전달합니다.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
